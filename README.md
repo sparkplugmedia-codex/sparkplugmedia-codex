@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sparkplugmedia
+- 👋 Hi, I’m @sparkplugmedia-codex
 - 👀 I’m interested in video games, art, and design
 - 🌱 I’m currently learning game design
 - 💞️ I’m not looking to collaborate on things yet
